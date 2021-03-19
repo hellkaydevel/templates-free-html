@@ -1,0 +1,27 @@
+template-acemaster-html
+	https://github.com/ThomasHWeb/ace-master
+	https://wrapbootstrap.com/theme/ace-responsive-admin-template-WB0B30DGR/	
+
+template-adminlte-html
+	https://github.com/ColorlibHQ/AdminLTE
+	
+template-atlantis-lite-html	
+	https://themekita.com/demo-atlantis-lite-bootstrap/
+	
+template-eccomerce-electronics-html
+	https://wpexpand.com/checkout/
+	https://wpexpand.com/checkout/purchase-confirmation/
+	
+wpexpand
+	ecommerce and admin
+		https://wpexpand.com/item/category/html-templates/
+
+themeHunt
+	ecommerce
+		https://themehunt.com/items/html/ecommerce/latest
+
+	admin
+		https://themehunt.com/items/latest?search=admin&start=0
+
+themeforest
+	https://themeforest.net/page/top_sellers?msclkid=b00d4829dabf17a30029287d5563c7e7&utm_source=bing&utm_medium=cpc&utm_campaign=bing_market_tf_en_1_b&utm_term=template&utm_content=tp_template_oka
